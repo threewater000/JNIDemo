@@ -13,6 +13,7 @@ typedef struct {
 void c_hello(JNIEnv *env, jobject cls)
 {
 	printf("Hello, world!\n");
+	printf("Hello, world2!\n");
 }
 
 
